@@ -2,7 +2,7 @@
 Android自定义可拖动进度条
 
 效果如图：
-![image](https://github.com/yanjunhui2014/TranslucentScrollView/blob/master/TranslucentScrollView/gif/device-2016-12-26-192438.gif)
+![image](https://github.com/yanjunhui2014/TouchProgressView/blob/master/gif/gif_0.gif)
 
 编程思想：
 
